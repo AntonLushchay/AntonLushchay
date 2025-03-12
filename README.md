@@ -1,5 +1,7 @@
 ## Hi there 👋
-There will be information about me
+Меня зовут Антон и я тестеровщик.
+Стремлюсь стать разработчиком. 
+Здесь можно увидеть некоторые мои учебные проекты.
 
 <!--
 **AntonLushchay/AntonLushchay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
