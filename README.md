@@ -3,7 +3,9 @@
 Стремлюсь стать разработчиком. 
 Здесь можно увидеть некоторые мои учебные проекты.
 
-На данный момент вот тут моя самая сложная работа: https://github.com/AntonLushchay/mesto-project-ff
+На данный момент мои самы сложные работы:
+Много JS - https://github.com/AntonLushchay/mesto-project-ff
+Много верстки - https://github.com/AntonLushchay/future-tech
 
 <!--
 **AntonLushchay/AntonLushchay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
